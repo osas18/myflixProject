@@ -1,2 +1,1 @@
-# myflixProject
-Myflix project
+# mongocatalogue
