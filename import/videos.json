@@ -1,5 +1,5 @@
-{"ip":"35.242.139.30","Name":"Train Statiom","file":"PexelsVideos1.mp4","thumb":"trainstation-th.png","pic":"trainstation.png","category":"comedy"}
-{"ip":"35.242.139.30","Name":"Walking in the Park","file":"PexelsVideos2.mp4","thumb":"walking-th.png","pic":"walk.png","category":"history"} 
-{"ip":"35.242.139.30","Name":"Beautiful lilies","file":"PexelsVideos3.mp4","thumb":"romance-th.png","pic":"romance.png","category":"romance"}
-{"ip":"35.242.139.30","Name":"High street","file":"PexelsVideos4.mp4","thumb":"highstreet-th.png","pic":"highstreet.png","category":"history"}
-{"ip":"35.242.139.30","Name":"Peterson Tower","file":"WomanWithUmbrellaWalking.mp4","thumb":"peterson-th.png","pic":"peterson.png","category":"comedy"}
+{"id":"1","ip":"35.242.139.30","Name":"Train Statiom","file":"PexelsVideos1.mp4","thumb":"trainstation-th.png","pic":"trainstation.png","category":"history"}
+{"id":"2","ip":"35.242.139.30","Name":"Walking in the Park","file":"PexelsVideos2.mp4","thumb":"walking-th.png","pic":"walk.png","category":"nature"} 
+{"id":"3","ip":"35.242.139.30","Name":"Beautiful lilies","file":"PexelsVideos3.mp4","thumb":"romance-th.png","pic":"romance.png","category":"romance"}
+{"id":"3","ip":"35.242.139.30","Name":"High street","file":"PexelsVideos4.mp4","thumb":"highstreet-th.png","pic":"highstreet.png","category":"history"}
+{"id":"3","ip":"35.242.139.30","Name":"Peterson Tower","file":"WomanWithUmbrellaWalking.mp4","thumb":"peterson-th.png","pic":"peterson.png","category":"history"}
